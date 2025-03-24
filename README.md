@@ -8,6 +8,10 @@ A simple web-based barcode generator that allows users to create custom barcodes
 * Supports various barcode formats (e.g., EAN-13, UPC-A, Code 128)
 * Easy-to-use interface for quick barcode creation
 * Printable barcodes perfect for receipts, inventory tags, or any other use case
+* Simple session logging
+* Persistent local storage for generated barcodes
+* export to CSV feature
+* Edit previously generated barcodes
 
 ## How to Use:
 
